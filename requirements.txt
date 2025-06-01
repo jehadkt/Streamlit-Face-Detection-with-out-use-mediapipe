@@ -1,6 +1,5 @@
-cv2
 streamlit
+cv2
 numpy
 PIL
 rembg
-io
