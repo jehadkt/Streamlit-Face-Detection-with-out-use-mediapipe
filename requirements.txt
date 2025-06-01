@@ -1,0 +1,6 @@
+cv2
+streamlit
+numpy
+PIL
+rembg
+io
