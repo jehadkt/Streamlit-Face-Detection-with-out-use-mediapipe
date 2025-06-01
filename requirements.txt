@@ -3,3 +3,5 @@ cv2
 numpy
 PIL
 rembg
+opencv-python-headless
+pillow
